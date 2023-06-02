@@ -17,6 +17,13 @@ Nota final parte 1 problemas: 1/1.
 
 #### Problemas parcial 1
 En esta parte subo los problemas que se asignaron para el primer parcial y algunas respuestas a ellos.
++ Problema 1: Solucionado por Joan Caballero
++ Problema 2: Solucionado por Hugo Aranda
++ Problema 3: Solucionado por Jan Samaranch
++ Problema 4: Solucionado por Marc Gonzalez
++ Problema 5: Solucionado por Marcel Claramunt
++ Problema 6: Solucionado por Hugo Aranda
++ Problema 7: Solucionado por Oriol Miró 
 
 ### Parte 2:
 #### Problemas subidos y nota asignada:
