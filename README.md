@@ -27,6 +27,7 @@ En esta parte subo los problemas que se asignaron para el primer parcial y algun
 
 ### Parte 2:
 En esta parte, como el examen fueron problemas extraídos de la lista, lo pongo todo junto.
+Transparencias y listas de problemas: https://www.cs.upc.edu/~mjserna/docencia/grauAA/AA-GEI.html
 #### Problemas subidos y nota asignada:
 + Problema 2. Nota: ?.
 + Problema 7. Nota: ?.
