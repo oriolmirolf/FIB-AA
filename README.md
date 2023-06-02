@@ -26,8 +26,8 @@ En esta parte subo los problemas que se asignaron para el primer parcial y algun
 + Problema 7: Solucionado por Oriol Miró 
 
 ### Parte 2:
+En esta parte, como el examen fueron problemas extraídos de la lista, lo pongo todo junto.
 #### Problemas subidos y nota asignada:
-Estos están ordenados tal y como se asignaron en el curso. Cada punto corresponde a una entrega.
 + Problema 2. Nota: ?.
 + Problema 7. Nota: ?.
 + Problema 18. Nota: ?.
@@ -37,5 +37,7 @@ Estos están ordenados tal y como se asignaron en el curso. Cada punto correspon
 Nota final parte 2 problemas: ?.
 
 #### Problemas parcial 2
-En esta parte subo los problemas que se asignaron para el primer parcial y algunas respuestas a ellos.
-Problemas asignados: De la lista: 8, 11, 14, 23, 27, 33.
+En el parcial podían entrar los problemas: 8, 11, 14, 23, 27 y 33.
++ Problema 8: Oriol Miró
++ Problema 11: Marc González
++ Problema 33: Jan Samaranch
